@@ -1,6 +1,8 @@
 # CryptoGang
 
-**Sujet 2 ; difficulté : Assez Difficile ; titre : Questions/Réponses**
+ * **Sujet 2** ;
+ * **Difficulté : Assez Difficile** ;
+ * **Titre : Quizz**.
 
 ## Rudiments cryptographiques
 
